@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Instagramar</string>
+    <string name="meta">META</string>
+    <string name="from">from</string>
+    <string name="sign_up_with_email_or_phone_number">Sign Up With email or phone number</string>
+    <string name="log_in">Log in.</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email">EMAIL</string>
+    <string name="phone">PHONE</string>
+    <string name="you_may_receive_sms_notifications_from_us_for_security_and_login_purposes">You may receive SMS notifications from us for security and login purposes</string>
+    <string name="next">Next</string>
+    <string name="or">OR</string>
+</resources>
